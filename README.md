@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iheb-ch" alt="iheb-ch" /></a> </p>
 
-- 🔭 I’m currently working on **an intelligent autofiller bot**
 
 - 🌱 I’m currently learning **NLP/NLU/NLG and Quantum Computing**
 
