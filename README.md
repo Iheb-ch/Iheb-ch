@@ -8,8 +8,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iheb-ch" alt="iheb-ch" /></a> </p>
 
 
-- 🌱 I’m currently learning **NLP/NLU/NLG and Quantum Computing**
-
 - 📫 How to reach me **iheb.chaabane@ept.ucar.tn**
 
 <h3 align="left">Connect with me:</h3>
